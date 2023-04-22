@@ -1,6 +1,4 @@
-2/Cho mảng gồm các phần tử { 2, 3, 4, 10, 40 } nhập vào từ bàn phím. Viết chương trình tìm kiếm giá trị 10. Sử dụng cài đặt tìm kiếm tuyến tính để tìm kiếm.
-  
-  #include <iostream>
+   #include <iostream>
 using namespace std;
 
 int main() {
