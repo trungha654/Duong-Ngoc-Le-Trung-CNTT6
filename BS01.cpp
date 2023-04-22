@@ -1,6 +1,4 @@
-1/Cho mảng gồm các phần tử { 2, 3, 4, 10, 40 } nhập vào từ bàn phím. Viết chương trình tìm kiếm giá trị 10. Sử dụng cài đặt tìm kiếm nhị phân để tìm kiếm.
-  
-  #include <iostream>
+#include <iostream>
 using namespace std;
 
 int binarySearch(int arr[], int l, int r, int x) {
@@ -29,3 +27,6 @@ int main() {
         cout << "Tim thay tai vi tri " << result << endl;
     return 0;
 }
+
+ 
+  
